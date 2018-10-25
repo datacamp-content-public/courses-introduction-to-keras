@@ -1,6 +1,6 @@
 ---
-title: 'Chapter Title Here'
-description: 'Chapter description goes here.'
+title: ' Creating Your First Neural Networks'
+description: ""
 ---
 
 ## Example coding exercise
@@ -40,3 +40,16 @@ This is an example exercise.
 ```{python}
 
 ```
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: VideoExercise
+key: 40931b2cf6
+xp: 50
+```
+
+`@projector_key`
+4c01cfa1ac1c3806f2f783e0b2d7ffd2
