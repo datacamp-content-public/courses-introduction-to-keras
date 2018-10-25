@@ -147,7 +147,7 @@ Non-trainable params: 0
 ```
 ```
 # Train the model
-model.fit(train_x, train_y, verbose=2, batch_size=5, epochs=200)
+model.fit(train_x, train_y,epochs=200)
 # Test on unseen data
 results = model.evaluate(test_x, test_y)
 ```
