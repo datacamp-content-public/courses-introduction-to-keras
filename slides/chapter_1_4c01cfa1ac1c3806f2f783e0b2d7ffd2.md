@@ -145,7 +145,6 @@ Total params: 193
 Trainable params: 193
 Non-trainable params: 0
 ```
-
 ```
 # Train the model
 model.fit(train_x, train_y, verbose=2, batch_size=5, epochs=200)
