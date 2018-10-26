@@ -70,23 +70,6 @@ Let's take a look to Iris data set and its features
 
 
 ---
-## Visualizing Iris
-
-```yaml
-type: "FullSlide"
-key: "99aa3d87d1"
-```
-
-`@part1`
-Let’s take a look at our data to see what we are dealing with.
-![](https://janakiev.com/notebooks/assets//keras_iris_files/output_5_0.png)
-
-
-`@script`
-
-
-
----
 ## Building Our Keras model
 
 ```yaml
